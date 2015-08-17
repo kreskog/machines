@@ -1,4 +1,5 @@
 iris
 Dell PowerEdge 2950
 Red Hat 6.6
-Development Drupal server
+Development Drupal server: dev.intranet.nrc-cnrc.gc.ca
+Git server: git.imsb.nrc.ca
