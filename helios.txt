@@ -1,0 +1,4 @@
+helios
+Dell PowerEdge 250
+CentOS 6.6
+Development Tomcat Solr server
